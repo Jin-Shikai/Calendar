@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Calendar Sample</string>
+    <string name="app_name">Calendar Sample 2</string>
     <string name="activity_title_view">Calendar View Sample</string>
     <string name="example_1_title">Example 1</string>
     <string name="example_1_subtitle">Multiple selection, paged horizontal scrolling, shows the \"EndOfRow\" implementation of OutDateStyle property.</string>
@@ -37,4 +38,5 @@
         <item quantity="one">%1$d selection in this month</item>
         <item quantity="other">%1$d selections in this month</item>
     </plurals>
+    <string name="example_test">test_example</string>
 </resources>
